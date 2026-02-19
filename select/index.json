@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "食卓",
+  "base_artist": "natori",
+  "createdAt": "2026-02-19T05:38:27.271795Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "食卓",
+      "artist": "tricot",
+      "has_synced": true,
+      "path": "select/01_食卓_tricot.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "食卓",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/02_食卓_なとり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "食卓",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_食卓_なとり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "食卓",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_02_食卓_なとり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "食卓",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_03_食卓_なとり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "食卓",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_04_食卓_なとり.txt"
+    }
+  ]
+}
